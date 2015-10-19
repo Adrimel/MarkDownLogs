@@ -4,7 +4,7 @@
 <<<<<<< HEAD:Example_Usage.R
 # source ("/Users/abelvertesy/MarkDownLogs/ .R")
 # author Abel Vertesy
-
+# data: 20-10-2015
 
 Var1 =233
 =======
