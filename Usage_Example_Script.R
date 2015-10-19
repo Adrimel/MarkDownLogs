@@ -3,7 +3,7 @@
 ######################################################################
 <<<<<<< HEAD:Example_Usage.R
 # source ("/Users/abelvertesy/MarkDownLogs/ .R")
-
+# author Abel Vertesy
 
 
 Var1 =233
